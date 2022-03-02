@@ -1,6 +1,5 @@
 # Time complexity
-```
-c++
+``` c++
 #include <iostream>
 using namespace std;
 ```
