@@ -1,5 +1,6 @@
 # Time complexity
-```c++
-  #include <iostream>
-  using namespace std;
+```
+c++
+#include <iostream>
+using namespace std;
 ```
